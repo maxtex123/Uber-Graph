@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cis300-Assignment-6-F19-Shuber", "cis300-Assignment-6-F19-Shuber\cis300-Assignment-6-F19-Shuber.csproj", "{7C49687A-67A7-4C66-95CB-A3A137D42A00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ksu.Cis300.PriorityQueueLibrary", "Ksu.Cis300.PriorityQueueLibrary\Ksu.Cis300.PriorityQueueLibrary.csproj", "{54FAB456-A560-4DAA-B12C-1A48C008A690}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C49687A-67A7-4C66-95CB-A3A137D42A00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C49687A-67A7-4C66-95CB-A3A137D42A00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C49687A-67A7-4C66-95CB-A3A137D42A00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C49687A-67A7-4C66-95CB-A3A137D42A00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54FAB456-A560-4DAA-B12C-1A48C008A690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54FAB456-A560-4DAA-B12C-1A48C008A690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54FAB456-A560-4DAA-B12C-1A48C008A690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54FAB456-A560-4DAA-B12C-1A48C008A690}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {863C9ABA-8898-480A-AC75-C72BB132A9BE}
+	EndGlobalSection
+EndGlobal
